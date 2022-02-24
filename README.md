@@ -3,7 +3,7 @@ Work from CS-350 at SNHU
 
 *** Important ***
 The file that I manipulated with my code was (gpiointerrupt_CC3220S_LAUNCHXL_nortos_ccs/gpiointerrupt.c).
-*** END ***
+******
 
 
     1. Summarize the project and what problem it was solving.
